@@ -1,0 +1,14 @@
+## Interface: 80300
+## Title: JaxPartyCastbars
+## Notes: Adds Party Frame Cast Bars attached to raid frames
+## Version: v2.0
+## Author: Jax
+## SavedVariables: jpcbDB
+## OptionalDeps: Blizzard_CompactRaidFrames, QbUI
+#@no-lib-strip@
+Embeds.xml
+#@end-no-lib-strip@
+
+
+JaxPartyCastbars.lua
+Options.lua
